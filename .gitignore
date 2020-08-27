@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/LsSocialWebApplication/v16/Server/sqlite3/db.lock
+/App_Data/aspnet-LsSocialWebApplication-20200825063903.mdf
+/App_Data/aspnet-LsSocialWebApplication-20200825063903_log.ldf
